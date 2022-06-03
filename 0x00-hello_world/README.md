@@ -20,4 +20,4 @@
     	. The output file should be named the same as the C file, but with the extension .s instead of .c.
         	. Example: if the C file is main.c, the output file should be main.s
 
-
+3. This creates a script that compiles a C file and creates an executable named cisfun.
