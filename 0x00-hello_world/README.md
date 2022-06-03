@@ -21,3 +21,10 @@
         	. Example: if the C file is main.c, the output file should be main.s
 
 3. This creates a script that compiles a C file and creates an executable named cisfun.
+
+4. This creates a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+
+    Use the function puts
+    You are not allowed to use printf
+    Your program should end with the value 0
+
