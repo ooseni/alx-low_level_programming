@@ -20,3 +20,5 @@
     	. All your code should be in the main function
     	. You can only use putchar three times in your code
 
+4. This Write a program that prints the alphabet in lowercase, followed by a new line.
+
