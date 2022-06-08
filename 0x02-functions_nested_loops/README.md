@@ -64,4 +64,7 @@
     	. Format: see example
 
 
+10. This writes a unction that adds two integers and returns the result.
+
+    	. Prototype: int add(int, int);
 
