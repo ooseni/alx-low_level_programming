@@ -21,4 +21,9 @@
     	. Returns 1 if c is a digit
     	. Returns 0 otherwise.
 
+2. This script writes a function that multiplies two integers.
+
+    	. Prototype: int mul(int a, int b);
+
+
 
