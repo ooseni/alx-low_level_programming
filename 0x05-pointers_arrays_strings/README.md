@@ -18,7 +18,14 @@
 
     	. Prototype: void swap_int(int *a, int *b);
 
-2. This writes a a function that returns the length of a string.
+2. This writes a function that returns the length of a string.
 
     	. Prototype: int _strlen(char *s);
 
+
+3. This writes a function that prints a string, followed by a new line, to stdout.
+
+    	. Prototype: void _puts(char *str);
+
+FYI: The standard library provides a similar function: puts. Run man puts to learn more.
+ 
