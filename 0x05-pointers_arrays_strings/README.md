@@ -17,3 +17,8 @@
 1. This writes a function that swaps the values of two integers.
 
     	. Prototype: void swap_int(int *a, int *b);
+
+2. This writes a a function that returns the length of a string.
+
+    	. Prototype: int _strlen(char *s);
+
