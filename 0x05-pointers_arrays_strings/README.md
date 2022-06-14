@@ -51,4 +51,13 @@ FYI: The standard library provides a similar function: puts. Run man puts to lea
     	. The function should print the second half of the string
     	. If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2
 
+
+8. This writes a function that prints n elements of an array of integers, followed by a new line.
+
+    	. Prototype: void print_array(int *a, int n);
+    where n is the number of elements of the array to be printed
+    	. Numbers must be separated by comma, followed by a space
+    	. The numbers should be displayed in the same order as they are stored in the array
+    	. You are allowed to use printf
+
  
