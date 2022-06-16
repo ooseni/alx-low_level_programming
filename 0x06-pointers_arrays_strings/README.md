@@ -52,3 +52,9 @@ FYI: The standard library provides a similar function: strcmp. Run man strcmp to
 
     	. Prototype: char *string_toupper(char *);
 
+
+6. This script writes a function that capitalizes all words of a string.
+
+    	. Prototype: char *cap_string(char *);
+    	. Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+
