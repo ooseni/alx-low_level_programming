@@ -72,3 +72,8 @@ FYI: The standard library provides a similar function: strstr. Run man strstr to
 
 Note that in the following example we are casting an int[][] into an int*. This is not something you should do. The goal here is to make sure you understand how an array of array is stored in memory.
 
+
+8. This writes a function that sets the value of a pointer to a char.
+
+    	. Prototype: void set_string(char **s, char *to);
+
