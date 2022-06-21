@@ -58,3 +58,8 @@ FYI: The standard library provides a similar function: strpbrk. Run man strpbrk 
 
 FYI: The standard library provides a similar function: strstr. Run man strstr to learn more.
 
+
+6. This writes a function that prints the chessboard.
+
+    	. Prototype: void print_chessboard(char (*a)[8]);
+
