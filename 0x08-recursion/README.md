@@ -50,3 +50,8 @@ FYI: The standard library provides a different function: pow. Run man pow to lea
 
 FYI: The standard library provides a different function: sqrt. Run man sqrt to learn more
 
+
+6. This writes a function that returns 1 if the input integer is a prime number, otherwise return 0.
+
+    	. Prototype: int is_prime_number(int n);
+
