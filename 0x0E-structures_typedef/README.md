@@ -41,3 +41,8 @@
     	. You have to store a copy of name and owner
     	. Return NULL if the function fails
 
+
+5. This script writes a function that frees dogs.
+
+    	. Prototype: void free_dog(dog_t *d);
+
