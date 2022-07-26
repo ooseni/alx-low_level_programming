@@ -25,7 +25,8 @@ File Prototype 0-read_textfile.c ssize_t read_textfile(const char *filename, siz
         If the write call fails or does not write the expected number of bytes - returns 0.
         Otherwise - returns the actual number of bytes the function can read and print.
 
-    1. Under the snow
+
+1. Under the snow
         1-create_file.c: C function that creates a file.
         The paramter filename is the name of the file to create.
         The parameter text_content is a null-terminated string to write to the file.
@@ -36,7 +37,8 @@ File Prototype 0-read_textfile.c ssize_t read_textfile(const char *filename, siz
         If filename is NULL or the funciton fails - returns -1.
         Otherwise - returns 1 on success.
 
-    2. Speak gently, she can hear
+
+2. Speak gently, she can hear
         2-append_text_to_file.c: C function that appends text at the end of a file.
         The parameter filename is the name of the file.
         The parameter text_content is a null-terminated string to append to the file.
@@ -46,7 +48,8 @@ File Prototype 0-read_textfile.c ssize_t read_textfile(const char *filename, siz
         If the file does not exist or the user lacks write permissions on the file - returns -1.
         Otherwise - returns 1.
 
-    3. cp
+
+3. cp
         3-cp.c: C program that copies the contents of a file to another file.
         Usage: cp file_from file_to
         If file_to already exists, it is truncated.
@@ -60,7 +63,8 @@ File Prototype 0-read_textfile.c ssize_t read_textfile(const char *filename, siz
         If the user cannot close a file descriptor, the function prints Error: Can't close fd FD_VALUE, followed by a new line on the POSIX standard error and exits with code 100.
             Where FD_VALUE is the value of the file descriptor.
 
-    4. elf
+
+4. elf
         100-elf_header.c: C program that displays the information contained in the ELF header at the start of an ELF file.
         Usage elf_header elf_filename
         Displayed information:
